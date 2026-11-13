@@ -8,6 +8,7 @@ Building backend services, AI assistants, RAG systems, Telegram bots and workflo
 
 [![GitHub](https://img.shields.io/badge/GitHub-kirill--daw-181717?logo=github)](https://github.com/kirill-daw)
 [![Resume](https://img.shields.io/badge/Resume-hh.ru-E31E24)](https://serov.hh.ru/resume/1f1bd1bcff10eb78fd0039ed1f794354444877)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?logo=telegram&logoColor=white)](https://t.me/loostae)
 
 </div>
 
