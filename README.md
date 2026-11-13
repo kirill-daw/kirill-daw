@@ -6,20 +6,28 @@
 
 Building backend services, AI assistants, RAG systems, Telegram bots and workflow automations.
 
+[![GitHub](https://img.shields.io/badge/GitHub-kirill--daw-181717?logo=github)](https://github.com/kirill-daw)
+[![Resume](https://img.shields.io/badge/Resume-hh.ru-E31E24)](https://serov.hh.ru/resume/1f1bd1bcff10eb78fd0039ed1f794354444877)
+
 </div>
 
 ---
 
 ## About me
 
-I am a developer focused on two complementary areas:
+I am a developer working at the intersection of **Java backend development** and **applied AI engineering**.
 
-- **Java backend development** with Spring Boot, REST APIs and PostgreSQL
-- **Applied AI engineering** with Python, LLM APIs, RAG, vector databases and automation tools
+My main areas:
 
-I completed the **Java Developer program at SkyPro** and continue developing practical AI projects involving retrieval, multimodal assistants, evaluation and business automation.
+- Java / Spring Boot backend development
+- REST APIs and PostgreSQL
+- AI assistants and LLM integrations
+- RAG systems and vector search
+- Telegram bots
+- workflow automation
+- LLM and RAG evaluation
 
-My current focus is on building useful systems where backend engineering and LLM-based tools meet.
+I completed the **Java Developer program at SkyPro** and continue building practical projects that combine classical backend systems with modern AI tools.
 
 ---
 
@@ -57,82 +65,47 @@ My current focus is on building useful systems where backend engineering and LLM
 
 ### [RAG Documentation Assistant](https://github.com/kirill-daw/rag-documentation-assistant)
 
-A practical Retrieval-Augmented Generation system with semantic search, response caching and automated quality evaluation.
+RAG assistant with semantic retrieval, SQLite caching and automated quality evaluation.
 
-**Stack:** Python · OpenAI API · ChromaDB · SQLite · RAGAS · LangChain
-
-- Document ingestion and chunking
-- Vector embeddings and semantic retrieval
-- Grounded LLM responses
-- Repeated-query caching
-- RAG quality evaluation with RAGAS
-
----
+**Python · OpenAI API · ChromaDB · SQLite · RAGAS · LangChain**
 
 ### [StaeRo Learning Assistant](https://github.com/kirill-daw/staero-learning-assistant)
 
-A multimodal Telegram learning assistant with text, RAG, voice and image-processing modes.
+Multimodal Telegram learning assistant with RAG, Vision, Speech-to-Text and Text-to-Speech.
 
-**Stack:** Python · Telegram Bot API · OpenAI-compatible API · ChromaDB · LangChain · FFmpeg
+**Python · Telegram Bot API · OpenAI-compatible API · ChromaDB · LangChain · FFmpeg**
 
-- Personal knowledge base with RAG
-- Vision support
-- Speech-to-Text and Text-to-Speech
-- Dialogue context
-- Idempotent document indexing
+### [Marketplace Backend API](https://github.com/kirill-daw/graduate-work)
 
----
+Java backend for a marketplace-style application with authentication, roles, ads, comments and user profiles.
+
+**Java · Spring Boot · Spring Security · PostgreSQL · Hibernate · Liquibase · MapStruct**
 
 ### [Art-Afisha Competitor AI](https://github.com/kirill-daw/art-afisha-competitor-ai)
 
-AI-powered competitor analysis application for cultural-event platforms.
+AI-powered competitor analysis application with text/image analysis and automated website data collection.
 
-**Stack:** Python · FastAPI · OpenAI API · Selenium · PyQt6
-
-- Text and image analysis
-- Automated website data collection
-- Structured competitor scoring
-- Web and desktop interfaces
-- Analysis history
+**Python · FastAPI · OpenAI API · Selenium · PyQt6**
 
 ---
 
-### [Graduate Work: Marketplace Backend](https://github.com/kirill-daw/graduate-work)
+## GitHub stats
 
-Backend for a marketplace-style application developed as the final project of the SkyPro Java Developer program.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirill-daw&show_icons=true&hide_title=true&hide_border=true)
 
-**Stack:** Java · Spring Boot · Spring Security · PostgreSQL · Hibernate · Liquibase · MapStruct · Maven
-
-- Authentication and authorization
-- USER and ADMIN roles
-- Ads and comments
-- Image uploads
-- Profile management
-- REST API and Swagger documentation
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirill-daw&layout=compact&hide_border=true)
 
 ---
 
-## What I work on
+## Current focus
 
-- Java backend applications
-- REST API integrations
-- AI assistants and chatbots
-- RAG systems and vector search
-- Telegram bots
-- Workflow automation with n8n
-- LLM evaluation and prompt engineering
+Currently improving my skills in:
 
----
-
-## Current direction
-
-I am currently deepening my skills in:
-
-- production-ready Java backend architecture;
-- AI / LLM integrations;
-- RAG quality and retrieval optimization;
-- automation of real business processes;
-- combining classical backend systems with modern AI tools.
+- production-ready Java backend architecture
+- AI and LLM integrations
+- RAG retrieval quality and evaluation
+- business process automation
+- combining backend systems with AI tools
 
 ---
 
@@ -140,6 +113,6 @@ I am currently deepening my skills in:
 
 ### Open to backend, AI and automation projects
 
-[GitHub](https://github.com/kirill-daw)
+[GitHub](https://github.com/kirill-daw) · [Resume](https://serov.hh.ru/resume/1f1bd1bcff10eb78fd0039ed1f794354444877)
 
 </div>
