@@ -114,6 +114,6 @@ Currently improving my skills in:
 
 ### Open to backend, AI and automation projects
 
-[GitHub](https://github.com/kirill-daw) · [Resume](https://serov.hh.ru/resume/1f1bd1bcff10eb78fd0039ed1f794354444877)
+[GitHub](https://github.com/kirill-daw) · [Resume](https://serov.hh.ru/resume/1f1bd1bcff10eb78fd0039ed1f794354444877) · [Telegram](https://t.me/loostae)
 
 </div>
