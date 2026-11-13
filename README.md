@@ -76,7 +76,7 @@ Multimodal Telegram learning assistant with RAG, Vision, Speech-to-Text and Text
 
 **Python · Telegram Bot API · OpenAI-compatible API · ChromaDB · LangChain · FFmpeg**
 
-### [Marketplace Backend API](https://github.com/kirill-daw/graduate-work)
+### [Marketplace Backend API](https://github.com/kirill-daw/Marketplace-Backend-API)
 
 Java backend for a marketplace-style application with authentication, roles, ads, comments and user profiles.
 
